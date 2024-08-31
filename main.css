@@ -13,39 +13,6 @@ body {
     justify-content: center;
     /* Центрирование по горизонтали */
     display: block;
-    margin: 0 auto;
-}
 
-
-
-.down {
-    justify-content: center;
-    /* Центрирование по горизонтали */
-    align-items: center;
-    /* Центрирование по вертикали */
-    position: center;
-    width: 90%;
-    /* Измените значение по необходимости */
-    height: 100%;
-    /* Высота автоматически подстраивается под контент */
-    margin: 60px auto 0;
-    padding: 20px;
-    /* Отступы внутри блока */
-    text-align: center;
-    /* Центрирование текста по горизонтали */
-}
-
-.down p {
-    font-size: 18px;
-    /* Размер шрифта для текста внутри блока */
-    letter-spacing: 1px;
-    /* Межбуквенный интервал */
-}
-
-.up-t {
-    justify-content: center;
-    align-items: center;
-    font-size: 20px;
-    align-items: center;
-
+    margin-right: 105px;
 }
